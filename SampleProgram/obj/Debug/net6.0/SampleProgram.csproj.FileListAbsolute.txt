@@ -1,0 +1,15 @@
+D:\.NET\College Assignments\Practical-4\SampleProgram\bin\Debug\net6.0\SampleProgram.exe
+D:\.NET\College Assignments\Practical-4\SampleProgram\bin\Debug\net6.0\SampleProgram.deps.json
+D:\.NET\College Assignments\Practical-4\SampleProgram\bin\Debug\net6.0\SampleProgram.runtimeconfig.json
+D:\.NET\College Assignments\Practical-4\SampleProgram\bin\Debug\net6.0\SampleProgram.dll
+D:\.NET\College Assignments\Practical-4\SampleProgram\bin\Debug\net6.0\ref\SampleProgram.dll
+D:\.NET\College Assignments\Practical-4\SampleProgram\bin\Debug\net6.0\SampleProgram.pdb
+D:\.NET\College Assignments\Practical-4\SampleProgram\obj\Debug\net6.0\SampleProgram.csproj.AssemblyReference.cache
+D:\.NET\College Assignments\Practical-4\SampleProgram\obj\Debug\net6.0\SampleProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\College Assignments\Practical-4\SampleProgram\obj\Debug\net6.0\SampleProgram.AssemblyInfoInputs.cache
+D:\.NET\College Assignments\Practical-4\SampleProgram\obj\Debug\net6.0\SampleProgram.AssemblyInfo.cs
+D:\.NET\College Assignments\Practical-4\SampleProgram\obj\Debug\net6.0\SampleProgram.csproj.CoreCompileInputs.cache
+D:\.NET\College Assignments\Practical-4\SampleProgram\obj\Debug\net6.0\SampleProgram.dll
+D:\.NET\College Assignments\Practical-4\SampleProgram\obj\Debug\net6.0\ref\SampleProgram.dll
+D:\.NET\College Assignments\Practical-4\SampleProgram\obj\Debug\net6.0\SampleProgram.pdb
+D:\.NET\College Assignments\Practical-4\SampleProgram\obj\Debug\net6.0\SampleProgram.genruntimeconfig.cache
